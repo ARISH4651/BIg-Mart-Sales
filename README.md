@@ -24,7 +24,7 @@ By analyzing product and outlet features, we build machine learning models to id
 
 ---
 
-## 🛠 Data Preprocessing
+##  Data Preprocessing
 - Handling missing values (`Item_Weight`, `Outlet_Size`).  
 - Encoding categorical variables using Label Encoding.  
 - Feature scaling (if required).  
